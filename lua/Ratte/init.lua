@@ -1,2 +1,5 @@
 
 require("Ratte.remap")
+require("Ratte.lazy-setup")
+require("Ratte.options")
+
