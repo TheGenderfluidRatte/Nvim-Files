@@ -11,9 +11,12 @@ return {
                                 "cpp",
                                 "lua",
                                 "make",
+                                "json",
                                 "markdown",
                                 "vim",
-                                "vimdoc"
+                                "vimdoc",
+                                "gitignore",
+                                "glsl"
                         },
 
                         auto_install = true,
